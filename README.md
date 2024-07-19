@@ -400,7 +400,7 @@ Teste de autenticação via: ssh - 2
 
 
 
-Glossário: 
+Glossário: teste te autenticação via: ssh
 
 Interpretador:
 
